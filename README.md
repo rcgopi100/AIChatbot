@@ -1015,12 +1015,21 @@ Done
 Bot: Hi! How can I help you
 
 User: hi
+
 Bot: Hi there, how can I help you?
+
 User: how are you
+
 Bot: Hi! I am good, how about you?
+
 User: I am good
+
 Bot: What can I do for you?
+
 User: I want to query an order
+
 Bot: Please provide order number.
+
 User: 123456789
+
 Bot: The Order is ready to deliver on 3rd June 2021.
