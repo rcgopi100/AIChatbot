@@ -1,4 +1,6 @@
 # AIChatbot
+Note: This project copied from original project https://github.com/NeuralNine/neuralintents and customized according to chatbot for SAP landscapes, however here we need to work with SAP FIORI UI team to integrate and call webservice which deployed in these python programs on secured database.
+
 Arificial Intelligent Chatbot Using Neural Networks and Natural Language Processing
 
 Steps to follow:
