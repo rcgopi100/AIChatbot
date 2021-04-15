@@ -54,6 +54,12 @@ def get_response(intents_list, intents_json):
             #print(result)
             break
     return result
+'''
+def sap_call_service(input_data):
+    .......
+    .....
+    return input_data
+'''
 
 print("Hi! How can I help you")
 
