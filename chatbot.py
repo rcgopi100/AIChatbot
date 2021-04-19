@@ -54,12 +54,6 @@ def get_response(intents_list, intents_json):
             #print(result)
             break
     return result
-'''
-def sap_call_service(input_data):
-    .......
-    .....
-    return input_data
-'''
 
 print("Hi! How can I help you")
 
@@ -70,6 +64,3 @@ while True:
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
-
-
-
